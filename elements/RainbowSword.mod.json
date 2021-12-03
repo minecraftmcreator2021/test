@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rainbow_sword",
+    "customModelName": "Normal",
+    "name": "Rainbow Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 99999,
+    "efficiency": 99999.0,
+    "attackSpeed": 2.0,
+    "enchantability": 99999,
+    "damageVsEntity": 10.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
